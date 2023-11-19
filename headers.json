@@ -1,0 +1,42 @@
+{
+    "url": "https://accounts.tsu.ru/Account/Choose2",
+    "raw_url": "https://accounts.tsu.ru/Account/Choose2?applicationId=1036&redirectUri=https%3A%2F%2Fmoodle.tsu.ru%2Flogin%2Faccounts_tsu%2Flogin_confirm.php",
+    "method": "post",
+    "cookies": {
+        "ASP.NET_SessionId": "reli1ypgjed2g1rrigiaxn2y",
+        "__RequestVerificationToken": "pZoyDJbRPZSuZECLs2No6y9j7JOq9pdrbdhCtVPE-Yw8x5x6m5hhkG9NtJT0N-CQKQ1AisgZzmhvNuLugWoiCQVIMOr420sH5QxfkWY853c1",
+        "_ym_uid": "1679968384177550669",
+        "_ym_d": "1679968384",
+        "__ddg1_": "4UOtbTlB5dIUy5MYJxtt",
+        "_ga_YNS4LMB3WS": "GS1.2.1687234852.3.1.1687234852.0.0.0",
+        "_ga": "GA1.2.240458483.1679061130",
+        "_ga_Z6W61WNR6Q": "GS1.1.1687975585.99.0.1687975585.0.0.0",
+        ".AspNet.ApplicationCookie": "T7kZ-Pp5ZYaep4CVxxDztWfSy7RQjQ2pscO_UMSHDoXfyBjuG30iCt3q9q7LGbjZTwsq2DKzGh3n4qAIZ5-u9xEgeBx5USIIqaHeOsl4bIANMuKeNBldEd1v0nOvE7FsXHhk6beeX0YbW7TkaWS8d8ZArpgZp8PMSwk9JcD5pFPL-yXFY12R4nUsZZG1Jb8mWill4618iDg563S-3ptsaWVAeho_fZ1piBa52Bc364ElscD_C4KgztA47uWuXHu5p_-nqG170dSUcozhJC-QIN7jzK_Bi8-8xHHSr8yTRFyzu-sN4Q3gLrmTWGO8Yf_ZcflB0--vLxdCm_-szKrlektOz4Aw07RbwTyhJD7KLS7_I5gghEc2ADqHRJjmhAaUYPgIukosYVjesGk-zma_cDLYW2koTai8NHB2adWvbTiaGSkEaP21eJI5HkpkRucBUpMpipTceQk98NqdULcnhqyVkmYCa2wn0STbh-H1GWy_An983sZ_iAJlTy0UU1FM"
+    },
+    "headers": {
+        "authority": "accounts.tsu.ru",
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+        "cache-control": "max-age=0",
+        "content-type": "application/x-www-form-urlencoded",
+        "cookie": "ASP.NET_SessionId=reli1ypgjed2g1rrigiaxn2y; __RequestVerificationToken=pZoyDJbRPZSuZECLs2No6y9j7JOq9pdrbdhCtVPE-Yw8x5x6m5hhkG9NtJT0N-CQKQ1AisgZzmhvNuLugWoiCQVIMOr420sH5QxfkWY853c1; _ym_uid=1679968384177550669; _ym_d=1679968384; __ddg1_=4UOtbTlB5dIUy5MYJxtt; _ga_YNS4LMB3WS=GS1.2.1687234852.3.1.1687234852.0.0.0; _ga=GA1.2.240458483.1679061130; _ga_Z6W61WNR6Q=GS1.1.1687975585.99.0.1687975585.0.0.0; .AspNet.ApplicationCookie=T7kZ-Pp5ZYaep4CVxxDztWfSy7RQjQ2pscO_UMSHDoXfyBjuG30iCt3q9q7LGbjZTwsq2DKzGh3n4qAIZ5-u9xEgeBx5USIIqaHeOsl4bIANMuKeNBldEd1v0nOvE7FsXHhk6beeX0YbW7TkaWS8d8ZArpgZp8PMSwk9JcD5pFPL-yXFY12R4nUsZZG1Jb8mWill4618iDg563S-3ptsaWVAeho_fZ1piBa52Bc364ElscD_C4KgztA47uWuXHu5p_-nqG170dSUcozhJC-QIN7jzK_Bi8-8xHHSr8yTRFyzu-sN4Q3gLrmTWGO8Yf_ZcflB0--vLxdCm_-szKrlektOz4Aw07RbwTyhJD7KLS7_I5gghEc2ADqHRJjmhAaUYPgIukosYVjesGk-zma_cDLYW2koTai8NHB2adWvbTiaGSkEaP21eJI5HkpkRucBUpMpipTceQk98NqdULcnhqyVkmYCa2wn0STbh-H1GWy_An983sZ_iAJlTy0UU1FM",
+        "origin": "https://accounts.tsu.ru",
+        "referer": "https://accounts.tsu.ru/Account/Choose2?applicationId=1036&redirectUri=https%3A%2F%2Fmoodle.tsu.ru%2Flogin%2Faccounts_tsu%2Flogin_confirm.php",
+        "sec-ch-ua": "\"Not/A)Brand\";v=\"99\", \"Opera\";v=\"101\", \"Chromium\";v=\"115\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"Windows\"",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-origin",
+        "sec-fetch-user": "?1",
+        "upgrade-insecure-requests": "1",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 OPR/101.0.0.0 (Edition Yx 05)"
+    },
+    "queries": {
+        "applicationId": "1036",
+        "redirectUri": "https://moodle.tsu.ru/login/accounts_tsu/login_confirm.php"
+    },
+    "data": {
+        "__RequestVerificationToken": "N8GSMvrhQjyBH6aNhBoqcziRnaAYK5j2u7RsrnHQAdKKQyisI3ubZq73U5GzvfMDphd5wk3Rojac1KPteuIIYOcmGYVUwOJZL1jtuwKEu4t4k0LXBGdN6OKyZSXK-lX51kuW4L9SzVxNqt8OiZoKKA2"
+    }
+}

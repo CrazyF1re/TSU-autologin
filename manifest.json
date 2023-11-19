@@ -1,0 +1,21 @@
+{
+    "manifest_version" : 3,
+    "name" : "TSU_autologin",
+    "version" : "1.0.1",
+    "description" : "autologin in TSU website",
+    
+    "action":
+    {
+        "default_title" : "Login"
+    },
+    "content_scripts" :[ 
+    {
+        "matches" : ["https://moodle.tsu.ru/*","https://accounts.tsu.ru/*"],
+        "run_at" : "document_idle",
+        "all_frames" : false,
+        "js" : ["./content.js"]
+    }
+    ],
+    "permissions": ["tabs"],
+    "host_permissions":["https://moodle.tsu.ru/*","https://accounts.tsu.ru/*"]   
+}
