@@ -10,12 +10,12 @@
     },
     "content_scripts" :[ 
     {
-        "matches" : ["https://moodle.tsu.ru/*","https://accounts.tsu.ru/*"],
+        "matches" : ["https://lms.tsu.ru/*","https://accounts.tsu.ru/*"],
         "run_at" : "document_idle",
         "all_frames" : false,
         "js" : ["./content.js"]
     }
     ],
     "permissions": ["tabs"],
-    "host_permissions":["https://moodle.tsu.ru/*","https://accounts.tsu.ru/*"]   
+    "host_permissions":["https://lms.tsu.ru/*","https://accounts.tsu.ru/*"]   
 }

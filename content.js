@@ -1,4 +1,4 @@
-const url = 'https://accounts.tsu.ru/Account/Choose2?applicationId=1036&redirectUri=https%3A%2F%2Fmoodle.tsu.ru%2Flogin%2Faccounts_tsu%2Flogin_confirm.php';
+const url = 'https://lms.tsu.ru/login/accounts_tsu/login.php'
 
 if (document.querySelector('button[class ="btn-login"]') != null || document.querySelector('a[id ="login_url"]')!= null)
 {
