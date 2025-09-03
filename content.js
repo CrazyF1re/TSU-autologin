@@ -1,6 +1,6 @@
 const url = 'https://lms.tsu.ru/login/accounts_tsu/login.php'
 
-if (document.querySelector('button[class ="btn-login"]') != null || document.querySelector('a[id ="login_url"]')!= null)
+if (document.querySelector('a[class^="btn-login"]') != null || document.querySelector('a[id ="login_url"]')!= null)
 {
     document.location.href = url
 }
